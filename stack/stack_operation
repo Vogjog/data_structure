@@ -1,0 +1,12 @@
+1. push()
+insert new data at the top+1 of the stack. value of top will increase
+
+2. pop()
+delete the data on the top of the stack. value of top will decrease
+
+3. peek()
+read data on the top of the stack. there is no change in the value of top
+
+
+
+
